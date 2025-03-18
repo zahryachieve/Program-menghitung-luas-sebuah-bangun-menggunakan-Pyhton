@@ -1,5 +1,5 @@
 # Program-menghitung-luas-sebuah-bangun-menggunakan-Pyhton
-Membuat sebuah program untuk menghitung  sebuah luas sebuah bangun menggunakan python
+Membuat sebuah program untuk menghitung  luas sebuah bangun menggunakan python
 def get_float_input(prompt):
     while True:
         try:
